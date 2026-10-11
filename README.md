@@ -32,7 +32,7 @@ Los hosts que responden se registran en un archivo, lo que permite consultar los
 En esta sección se puede incluir una captura de la terminal mostrando la ejecución del script y los resultados obtenidos.
 
 <div align="center">
-  <img src="assest/Hosts.gif" alt="Proyecto">
+  <img src="Hosts.gif" alt="Proyecto">
 </div>
 
 ## Ventajas y limitaciones
